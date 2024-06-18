@@ -183,7 +183,7 @@
 	
     </script>
     <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA0JA3sjMgwAboqsaFv2DLLRX7zA12lfQw&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=$KEY&callback=initMap">
     </script>
   </body>
   
